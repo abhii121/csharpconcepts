@@ -15,7 +15,6 @@ namespace csharpconcepts
             double num1;
             double num2;
             string operand;
-            ConsoleKeyInfo status;
             double answer;
 
             while (true)

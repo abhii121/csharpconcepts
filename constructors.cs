@@ -29,7 +29,6 @@ namespace csharpconcepts
 			{
 				Console.WriteLine("1st constructor (int + float): {0} ",(x + f));
 			}
-			//2nd Constructor show()
 			public void show1()
 			{
 				Console.WriteLine("2nd constructor (int + string): {0}",(s + y));
@@ -44,8 +43,6 @@ namespace csharpconcepts
 				ADD g = new ADD(10, 20.2);
 				g.show();
 				ADD q = new ADD(10, "Roll No. is ");
-
-				// calling the method
 				q.show1();
 			}
 		}
