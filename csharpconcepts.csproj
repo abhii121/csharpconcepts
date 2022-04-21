@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>csharpconcepts.strings</StartupObject>
+    <StartupObject>csharpconcepts.JaggedArray</StartupObject>
   </PropertyGroup>
 
 </Project>
