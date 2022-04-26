@@ -1,6 +1,6 @@
-﻿using System; 
+﻿using System;
 
-namespace DLithe2
+namespace csharpconcepts
 {
     public class DLithe_Batch2
     {
@@ -35,7 +35,7 @@ namespace DLithe2
             Console.WriteLine($"The Trainee ID is {TID}.\nTrainee Name is {TName}.\nTrainee Designation is {TDes}");
 
 
-           
+
         }
     }
 
